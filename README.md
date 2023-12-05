@@ -1,7 +1,20 @@
 # IPLocator
 
-A Project Made By Bash : Getting IP Info From 2 API Sources
+- A Project Made In Python
+  
+- Get IP Info In Seconds
 
-Data Folder Is Required!
+## How To Use
 
-CopyRight 1NF1N17Y 2023
+- Open Terminal
+
+- Run python3 IPLocator.py
+
+- Enter The Target IP Address
+
+- Wait Until It Finishes
+> [!NOTE]
+> No Longer Updated
+
+**&copy; CopyRight 1NF1N17Y 2023**
+
